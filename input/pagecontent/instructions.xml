@@ -10,7 +10,7 @@
   </p>
   <h3>Creating a new WHO SMART Guidline</h3><a name="new-smart"> </a>
 
-  <h4>Creating a new GitHub repository</h4><a name="github"> </a>
+	<p><strong>Creating a new GitHub repository</strong></p><a name="github"> </a>
   <ul>
     <li>
       Choose an apporpriate for the Implementation Guide you are developing.  The code of this implemenation guide is <em>smart-ig-empty</em>.  For the sake of the following instructions, we will assume that you have chosen <em>smart-ig-my-guide</em>.
@@ -31,7 +31,7 @@ git checkout main</pre>
     </li>
   </ul>
 
-  <h4>Modifying the template repository</h4><a name="modify"> </a>
+	<p><strong>Modifying the template repository</strong></p><a name="modify"> </a>
   <ul>
     <li>
       Modify the following files as indiciated:
@@ -69,7 +69,7 @@ git checkout main</pre>
       Name the forked repository the same as the repository you are forking from but you should add the ISO-alpha3 code to then end.  For example <em>smart-ig-anc</em> would beceom <em>smart-ig-anc-exa</em>
     </li>
     <li>
-      Further modify the following files:
+      <a name="country-adapt-files"></a>Further modify the following files:
       <dl>
 	<dt>ig.ini</dt>
 	<dd>

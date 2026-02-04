@@ -5,8 +5,8 @@
 {% assign excludettl = site.data.info.excludettl | downcase | slice: 0 %}
 
 
-<H3>Government Publications and Issuances</H3>
-	<P></P>
+<h3>Government Publications and Issuances</h3>
+	<p></p>
 	<p ALIGN="JUSTIFY" STYLE="margin-left:50px">
     Administrative Order 2017-0011 - Policy on the Prevention and Control of Viral Hepatitis of the National HIV, AIDS and STI Prevention and Control Program (NASPCP)<a href="AO 2017-0011.PDF">PDF</a>
 	</p>
@@ -27,10 +27,10 @@
     Department Memorandum 2020-0532 <a href="DM 2020-0532 Revised Hep B Interim Guidelines.pdf">PDF</a>
 	</p>
 
-	<P></P>
-	<P></P>
-<H3>Viral Hepatitis Patient Forms</H3>
-	<P></P>
+	<p></p>
+	<p></p>
+<h3>Viral Hepatitis Patient Forms</h3>
+	<p></p>
 	<p ALIGN="JUSTIFY" STYLE="margin-left:50px">
 	Viral Hepatitis Case Report Form <a href="VH_Care Form.pdf">PDF</a>
 	</p>
