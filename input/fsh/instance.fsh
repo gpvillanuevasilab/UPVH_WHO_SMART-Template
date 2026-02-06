@@ -80,7 +80,7 @@ Description: "VH Patient"
 
 Profile: VHCEncounter
 Parent: Encounter
-Id: 2156
+Id: VHCEncounter
 * ^meta.versionId = "6"
 * ^meta.lastUpdated = "2022-10-30T19:17:19.503+00:00"
 * ^meta.source = "#ZmxOp7ha00Z66ZSf"
@@ -97,7 +97,7 @@ Id: 2156
 
 Profile: ConditionHepB
 Parent: Condition
-Id: 2158
+Id: ConditionHepB
 Description: "Hepatitis B surface antigen test result"
 * ^meta.versionId = "6"
 * ^meta.lastUpdated = "2022-10-31T01:48:22.211+00:00"
@@ -110,7 +110,7 @@ Description: "Hepatitis B surface antigen test result"
 
 Profile: ConditionHepC
 Parent: Condition
-Id: 2159
+Id: ConditionHepC
 Description: "Hepatitis C antibody test result"
 * ^meta.versionId = "5"
 * ^meta.lastUpdated = "2022-10-30T17:46:56.857+00:00"
